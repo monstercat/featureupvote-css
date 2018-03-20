@@ -1,0 +1,9 @@
+.navbarFUV .navbar-link, .navbarFUV .dropdown-toggle,
+.navbarFUV .navbar-link:hover {
+  color: #000;
+}
+
+.navbar-header {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
