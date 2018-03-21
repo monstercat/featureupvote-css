@@ -7,3 +7,18 @@
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+..btn.btn-default.active,
+.btn.btn-default:active,
+.modal-footer .btn + .btn.btn-default.active,
+.modal-footer .btn + .btn.btn-default:active,
+.btn.btn-primary,
+.modal-footer .btn + .btn.btn-primary,
+.sVotes {
+  background: dodgerblue;
+}
+
+.sVotes:hover {
+  background: #1873cc;
+}
+
